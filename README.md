@@ -20,3 +20,7 @@ Put `[aot "0.1.0"]` into the `:plugins` vector of your project.clj.
 Execute this in your project to compile:
 
     $ lein aot
+
+## TODO
+
+* Exclude project's source files from compilation
